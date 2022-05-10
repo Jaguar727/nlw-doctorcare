@@ -267,8 +267,6 @@ body.menu-expanded > :not(nav) {
 body.menu-expanded .open-menu {
   opacity: 0;
   visibility: hidden;
-  position: absolute;
-  right: 0;
 }
 
 body.menu-expanded .menu,
