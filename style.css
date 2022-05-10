@@ -273,8 +273,6 @@ body.menu-expanded .menu,
 body.menu-expanded .close-menu {
   opacity: 1;
   visibility: visible;
-  position: absolute;
-  right: 0;
 }
 
 body.menu-expanded .menu {
