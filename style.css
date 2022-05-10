@@ -83,7 +83,6 @@ body {
   width: min(50rem, 100%);
   margin-inline: auto;
   position: relative;
-  padding-inline: 2.4rem;
 }
 
 ul {
@@ -229,6 +228,7 @@ nav .wrapper {
   display: flex;
   align-items: center;
   justify-content: space-between;
+  padding-inline: 2.4rem;
 }
 
 nav.scroll {
